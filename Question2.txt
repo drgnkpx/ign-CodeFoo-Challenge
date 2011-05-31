@@ -1,0 +1,10 @@
+(2)
+
+
+16 : 9 image ratio        12 pixel increment
+image must have a length divisible by 12, and a height 9 / 16 of its length in  whole pixels.
+
+
+192 x 108
+384 x 216
+1152 x 648

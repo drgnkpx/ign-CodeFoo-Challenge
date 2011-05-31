@@ -1,0 +1,12 @@
+(1)
+
+
+2,737 Meter   x   27 Meter                    Bridge including approaches
+.0095 Meter                                          radius of a penny
+
+Assuming that the pennies do not overlap, the areas of consecutive pennies behave like either consecutive squares or hexagons. In this case, more Hexagons will fit than squares because a penny will remain on the bridge if half of its surface area is still in contact with the bridge. For every other line of pennies on the bridge there will be one more penny than if they were lined up in a square format.
+
+27 M (width of the bridge) / ( 2 * .0095 M)  = 1421.052631   pennies wide
+2,737 M / (2 * .0095 M) = 144052.6315    pennies long
+
+1421 * 144052 + (144052 / 2)  = 	204769918  pennies total
